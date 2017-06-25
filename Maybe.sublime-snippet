@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = factory.Maybe(
+    '${2:boolean_field}',
+    yes_declaration=${3:None},
+    no_declaration=${4:None}
+)]]></content>
+    <tabTrigger>fmaybe</tabTrigger>
+    <scope>source.python</scope>
+    <description>factory.Maybe (fmaybe)</description>
+</snippet>

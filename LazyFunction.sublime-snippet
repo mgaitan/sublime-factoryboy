@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = factory.LazyFunction(${2:method_or_function})]]></content>
+    <tabTrigger>flazyf</tabTrigger>
+    <scope>source.python</scope>
+    <description>factory.LazyFunction (flazyf)</description>
+</snippet>

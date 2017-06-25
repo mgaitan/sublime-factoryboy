@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+
+    @factory.post_generation
+    def ${1:post}(obj, create, extracted, **kwargs):
+        ${2}
+
+]]></content>
+    <tabTrigger>fpost</tabTrigger>
+    <scope>source.python</scope>
+    <description>factory.post_generation (fpost)</description>
+</snippet>

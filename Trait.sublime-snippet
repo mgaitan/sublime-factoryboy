@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+
+    class Params:
+        ${1:field} = factory.Trait(
+            ${2}
+        )
+
+]]></content>
+    <tabTrigger>ftrait</tabTrigger>
+    <scope>source.python</scope>
+    <description>factory.Trait (ftrait)</description>
+</snippet>

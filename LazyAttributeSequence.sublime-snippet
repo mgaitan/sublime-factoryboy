@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = factory.LazyAttributeSequence(lambda o, n: ${2})]]></content>
+    <tabTrigger>flazyseq</tabTrigger>
+    <scope>source.python</scope>
+    <description>factory.LazyAttributeSequence (flazyseq)</description>
+</snippet>

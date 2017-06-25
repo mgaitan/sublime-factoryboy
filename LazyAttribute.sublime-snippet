@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = factory.LazyAttribute(lambda o: ${2:o})]]></content>
+    <tabTrigger>flazy</tabTrigger>
+    <scope>source.python</scope>
+    <description>factory.LazyAttribute (flazy)</description>
+</snippet>

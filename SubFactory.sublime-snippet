@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = factory.SubFactory(${2:SubFactory})]]></content>
+    <tabTrigger>fsub</tabTrigger>
+    <scope>source.python</scope>
+    <description>factory.SubFactory (fsub)</description>
+</snippet>

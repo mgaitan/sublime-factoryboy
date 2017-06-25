@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = factory.Sequence(lambda n: "${2:value}{}".format(n))]]></content>
+    <tabTrigger>fseq</tabTrigger>
+    <scope>source.python</scope>
+    <description>factory.Sequence (fseq)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = factory.Iterator(${2:['value1']})]]></content>
+    <tabTrigger>fiter</tabTrigger>
+    <scope>source.python</scope>
+    <description>factory.Iterator (fiter)</description>
+</snippet>

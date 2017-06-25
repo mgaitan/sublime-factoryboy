@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:FIELDNAME} = factory.SelfAttribute('${2:dotted_path_to_attribute}')]]></content>
+    <tabTrigger>fself</tabTrigger>
+    <scope>source.python</scope>
+    <description>factory.SelfAttribute (fself)</description>
+</snippet>

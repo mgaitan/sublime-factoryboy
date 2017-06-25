@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+class ${1:MODELNAME}Factory(SQLAlchemyModelFactory):
+    class Meta:
+        model = $1
+
+    ${2:# TODO: Define fields here}
+]]></content>
+    <tabTrigger>sqlfactory</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
